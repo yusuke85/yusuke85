@@ -1,4 +1,4 @@
-### Hi there I'm Yusuke Fujita 👋
+### typingcat random :typingcat: Hi there I'm Yusuke Fujita 👋
 
 
 - 🌱 I’m currently learning React.js, Node.js, and SQL
